@@ -107,17 +107,3 @@
 | 099 | [Parallax Website](https://github.com/solygambas/html-css-fifty-projects/tree/master/099-parallax%20website)                             | [Live Demo](https://codepen.io/solygambas/full/poeBdPr)  |
 | 100 | [Hulu Webpage Clone](https://github.com/solygambas/html-css-fifty-projects/tree/master/100-hulu%20webpage%20clone)                       | [Live Demo](https://codepen.io/solygambas/full/rNmmqBy)  |
 
-This repository is mostly based on 2 courses by Brad Traversy (2020):
-
-- [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
-- [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
-
-The other projects are adapted from various YouTube channels:
-
-- Brad Traversy - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-- Shaun Pelling - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- Simo Edwin - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-- Gary Simon - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
-- Kyle Cook - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
-- [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
-- [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
